@@ -1,27 +1,11 @@
-# AppTodo
+# appMyTodoList
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
 
-## Development server
+![image](https://user-images.githubusercontent.com/104870722/224356399-3dc7fd71-8a0f-427a-9ff9-17fc70127a41.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![foto 2](https://user-images.githubusercontent.com/104870722/224356460-8aea9446-9188-4edd-99f3-db8cd42a7d8b.PNG)
 
-## Code scaffolding
+Sobre o projeto: É possível, adicionar tarefas a serem realizadas, marcar o checkbox para informar que a tarefa foi realizada, se marcada a tarefa vai para o final da lista, tem a opção de deletar a tarefa específica ou se deseja pode apagar todas de uma vez. 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+aplicativo simples, apenas para ajudar no aprendizado da framework Angular, podem acessar diretamente por esse link: https://todo-list-cleitonvasconcelos.netlify.app/
